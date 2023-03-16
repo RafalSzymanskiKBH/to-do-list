@@ -10,3 +10,8 @@ html {
     font-family: 'Montserrat', sans-serif;
     background-color: #ddd;
 }
+.main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+}
