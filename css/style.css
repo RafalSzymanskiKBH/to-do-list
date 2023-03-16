@@ -15,3 +15,11 @@ html {
     margin: 0 auto;
     padding: 30px;
 }
+.header {
+    padding: 0 20px;
+}
+.section {
+    background-color: white;
+    margin: 15px 0;
+}
+
