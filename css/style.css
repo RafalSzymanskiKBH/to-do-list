@@ -22,6 +22,11 @@ html {
     background-color: white;
     margin: 15px 0;
 }
+.section__header {
+    padding: 10px;
+    margin : 0px;
+    border-bottom: solid 2px #eee;
+}
 .form {
     display: grid;
     grid-template-columns: 1fr auto;
