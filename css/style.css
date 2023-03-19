@@ -33,6 +33,11 @@ html {
     grid-gap: 20px;
     padding: 20px;
 }
+.form__input {
+    border-radius: 0;
+    border: solid 2px #a1a1a1;
+    height: 40px;
+}
 .form__button {
     background: teal;
     color: white;
